@@ -2,4 +2,4 @@
 
 # Xu-Tar-Bucks
 
-Basic Boba Shop cashier support system build using laravel for Training Assignment
+Basic Boba Shop cashier support system build using laravel for Assistant Training Assignment
